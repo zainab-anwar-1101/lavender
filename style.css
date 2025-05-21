@@ -1,0 +1,26 @@
+body{
+ background-image: url('https://pristinearoma.sg/cdn/shop/collections/Screenshot_2023-01-20_at_11.05.37_AM.png?v=1700722666');
+ background-size: cover;
+ font-family: sans-serif;
+}
+.container{
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 10px;
+  margin: auto;
+  width: 80%;
+  text-align: center;
+}
+button{
+  background-color: purple;
+  color: lavender;
+  border: none;
+  padding: 10px 20px;
+  font-weight: bolder;;
+  border-radius: 25px;
+}
+button:hover{
+  background-color: lavender;
+  color: purple;
+  cursor: pointer;
+}
